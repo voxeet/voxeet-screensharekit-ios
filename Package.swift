@@ -23,7 +23,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "VoxeetScreenShareKit",
-            url: "https://vox-ios-sdk.s3.us-east-1.amazonaws.com/voxeetscreensharekit/release/1.0.6/VoxeetScreenShareKit.zip",
-            checksum: "1e99abe24e194910a5d2a1a0698bca2e58de0eb66b05eff0ca7f5181dd466376"),
+            url: "https://vox-ios-sdk.s3.us-east-1.amazonaws.com/voxeetscreensharekit/release/1.0.7/VoxeetScreenShareKit.zip",
+            checksum: "82aab968d49915658160bbc273d6df1f3e32ecaaf7621c387572a7d4cfe2328b"),
     ]
 )
