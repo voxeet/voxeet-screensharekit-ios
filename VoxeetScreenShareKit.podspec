@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.homepage = "https://dolby.io"
   spec.platform = :ios, "9.0"
   spec.swift_version = "5.5"
-  spec.source = { :http => "https://vox-ios-sdk.s3.us-east-1.amazonaws.com/sdk/ios/screenshare/release/#{spec.version}/VoxeetScreenShareKit.zip" }
+  spec.source = { :http => "https://vox-ios-sdk.s3.us-east-1.amazonaws.com/sdk/ios/screenshare/release/v#{spec.version}/VoxeetScreenShareKit.zip" }
   spec.vendored_frameworks = "VoxeetScreenShareKit.framework"
 
   # MacBook arm simulator isn't supported.
