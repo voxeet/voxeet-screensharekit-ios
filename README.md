@@ -1,7 +1,7 @@
-# Voxeet ScreenShareKit iOS
+# Dolby.io Communications SDKs for iOS ScreenShareKit
 
 ## Documentation
 
-A full documentation can be found here: https://dolby.io/developers/interactivity-apis/client-sdk/articles/screenshare-with-ios.
+A full documentation can be found here: https://docs.dolby.io/communications/docs/guides-screenshare-with-ios.
 
 © Voxeet, 2021
