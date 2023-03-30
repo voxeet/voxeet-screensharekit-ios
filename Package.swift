@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "VoxeetScreenShareKit",
     platforms: [
-        .iOS(.v9)
+        .iOS(.v12)
     ],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
@@ -23,7 +23,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "VoxeetScreenShareKit",
-            url: "https://vox-ios-sdk.s3.us-east-1.amazonaws.com/voxeetscreensharekit/release/v1.0.12/VoxeetScreenShareKit.zip",
-            checksum: "2a042da9857ca5cb75c0ccd1a9bdaaf7bf484d42ede78ea7329ee7426ad305b0"),
+            url: "https://vox-ios-sdk.s3.us-east-1.amazonaws.com/voxeetscreensharekit/release/v1.0.13/VoxeetScreenShareKit.zip",
+            checksum: "2ad438fc6d9ab537697454397c77c62fc9145b3775933ed055d647d421d14160"),
     ]
 )
